@@ -122,7 +122,7 @@ fieldMap = {
     #process, payload (EC 4)
 }
 
-directory = r"C:\Users\turke\Downloads\Elastic_Sigma_Rules-main\Elastic_Sigma_Rules-main"
+directory = r"E:\all projects ever... mostly\2026\Work\Elastic_Sigma_Rules"
 
 def FieldRemap():
     for filename in os.listdir(directory):
